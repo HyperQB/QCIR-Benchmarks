@@ -15,10 +15,10 @@ Depends on the QBF solving outcome:
 ## format: [case number] (expected QBF outcome) case-name / hyperproperty-name
 
 
-| Case number | Description | Test Text     |
+| Case number | expected QBF outcome | case-name / hyperproperty-name     |
 | :---        | :----       | :----         |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| [0.1]      | (SAT)       | Bakery.3proc  / S1     |
+| [0.2 ]     | (SAT)        | Bakery.3proc  / S2 |
 
 [0.1]   (SAT)    Bakery.3proc  / S1  
 [0.2]   (SAT)    Bakery.3proc  / S2
