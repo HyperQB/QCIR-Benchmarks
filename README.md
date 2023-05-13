@@ -1,4 +1,4 @@
-# OCIR Benchmark from QBF-based BMC of HyperLTL
+# QCIR Benchmark from QBF-based BMC of HyperLTL
 
 ## Overview:
 This package contains several QCIR instances from:
@@ -12,7 +12,7 @@ Depends on the QBF solving outcome:
   - For synthesis problem, a QBF-SAT result is always expected.
 
 ## Excepted SAT/UNSAT results using a QBF solver:
-## (format: [<case number>] (<expected QBF outcome>) <case name> / <hyperproperty name>)
+## format: [case number] (expected QBF outcome) case-name / hyperproperty-name
 
 (model checking)
 [0.1]   (SAT)    Bakery.3proc  / S1  
