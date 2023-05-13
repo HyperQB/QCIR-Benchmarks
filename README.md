@@ -29,10 +29,10 @@ Depends on the QBF solving outcome:
 |[4.1]|   (SAT)  |  NRP_v1        / fairness|
 |[4.2]|   (UNSAT)|  NRP_v2        / fairness|
 |[5.1-1]| (SAT)  | 10x10 grid     / Shortest Path  |
-|[5.1-2]| (SAT)  |  20x20 grid     / Shortest Path --------------- (long) |
+|[5.1-2]| (SAT)  |  20x20 grid     / Shortest Path ---------------- (long) |
 |[5.2-1]| (SAT)  |  10x10 grid     / Initial State Robustness|
-|[5.2-2]| (SAT)  |  20x20 grid     / Initial State Robustness ---- (long)|
-|[5.2-3]| (SAT)  |  40x40 grid     / Initial State Robustness ---- (long)|
+|[5.2-2]| (SAT)  |  20x20 grid     / Initial State Robustness ----- (long)|
+|[5.2-3]| (SAT)  |  40x40 grid     / Initial State Robustness ----- (long)|
 |[6.1]|   (SAT)  |  Mutation Test  / Mut|
 |[7.1] |  (UNSAT)| 2Progs         / co-term|
 |[8.1] |  (UNSAT)|  ElectronicPurse/ deniability|
