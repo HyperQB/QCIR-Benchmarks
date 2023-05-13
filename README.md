@@ -13,7 +13,7 @@ Depends on the QBF solving outcome:
 
 ## Excepted SAT/UNSAT results using a QBF solver:
 
-| Case number | expected QBF outcome | case-name / hyperproperty-name     |
+| Case num | expected QBF | case-name / hyperproperty-name     |
 | :---        | :----       | :----         |
 |[0.1]|   (SAT)  |  Bakery.3proc  / S1    |
 |[0.2]|   (SAT)  |  Bakery.3proc  / S2    |
