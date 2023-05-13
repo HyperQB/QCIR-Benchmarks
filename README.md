@@ -1,15 +1,12 @@
 # QCIR Benchmark from QBF-based BMC for Hyperproperties
 
 ## Overview:
-This package contains several QCIR instances from:
+This package contains several QCIR instances `from:
+  - Hsu, Tzu-Han, César Sánchez, and Borzoo Bonakdarpour. "Bounded model checking for hyperproperties." Tools and Algorithms for the Construction and Analysis of Systems: 27th International Conference (TACAS 2021)
+  - Hsu, Tzu-Han, Borzoo Bonakdarpour, and César Sánchez. "Hyperqube: A qbf-based bounded model checker for hyperproperties." arXiv preprint arXiv:2109.12989 (2021)
   "HyperQB: A QBF-Based Bounded Model Checker for Hyperproperties"
   (Tzu-Han Hsu, Borzoo Bonakdarpour, César Sánchez, CoRR abs/2109.12989 (2021))
-
-Each QCIR instance represents an QBF encoding of a HyperLTL model checking problem.
-Depends on the QBF solving outcome:
-  - QBF-SAT   implies the model satisfies the formula
-  - QBF-UNSAT implies the model does not satisfy the formula
-  - For synthesis problem, a QBF-SAT result is always expected.
+  
 
 ## Excepted SAT/UNSAT results using a QBF solver:
 
