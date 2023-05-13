@@ -17,9 +17,6 @@ Depends on the QBF solving outcome:
 
 | Case number | expected QBF outcome | case-name / hyperproperty-name     |
 | :---        | :----       | :----         |
-| [0.1]      | (SAT)       | Bakery.3proc  / S1     |
-| [0.2]     | (SAT)        | Bakery.3proc  / S2 |
-
 |[0.1]|   (SAT)  |  Bakery.3proc  / S1    |
 |[0.2]|   (SAT)  |  Bakery.3proc  / S2    |
 |[0.3]|   (UNSAT)|  Bakery.3proc  / S3    |
@@ -33,16 +30,12 @@ Depends on the QBF solving outcome:
 |[3.2]|   (UNSAT)|  3-Thread_v2   / non-interference   |
 |[4.1]|   (SAT)  |  NRP_v1        / fairness|
 |[4.2]|   (UNSAT)|  NRP_v2        / fairness|
-
-
 |[5.1-1]| (SAT)  | 10x10 grid     / Shortest Path  |
 |[5.1-2]| (SAT)  |  20x20 grid     / Shortest Path --------------- (long) |
 |[5.2-1]| (SAT)  |  10x10 grid     / Initial State Robustness|
 |[5.2-2]| (SAT)  |  20x20 grid     / Initial State Robustness ---- (long)|
 |[5.2-3]| (SAT)  |  40x40 grid     / Initial State Robustness ---- (long)|
 |[6.1]|   (SAT)  |  Mutation Test  / Mut|
-
-
 |[7.1] |  (UNSAT)| 2Progs         / co-term|
 |[8.1] |  (UNSAT)|  ElectronicPurse/ deniability|
 |[9.1] |  (SAT)  |  ShareBuffer    / OD |
