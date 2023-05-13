@@ -1,7 +1,7 @@
 # QCIR Benchmark from QBF-based BMC for Hyperproperties
 
 ## Overview:
-This package contains several QCIR instances `from:
+This package contains several QCIR instances cited from:
   - Hsu, Tzu-Han, César Sánchez, and Borzoo Bonakdarpour. "Bounded model checking for hyperproperties." Tools and Algorithms for the Construction and Analysis of Systems: 27th International Conference (TACAS 2021)
   - Hsu, Tzu-Han, Borzoo Bonakdarpour, and César Sánchez. "HyperQB: A qbf-based bounded model checker for hyperproperties." arXiv preprint arXiv:2109.12989 (2021)
 
