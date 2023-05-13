@@ -15,6 +15,7 @@ Depends on the QBF solving outcome:
 ## format: [case number] (expected QBF outcome) case-name / hyperproperty-name
 
 (model checking)
+
 [0.1]   (SAT)    Bakery.3proc  / S1  
 [0.2]   (SAT)    Bakery.3proc  / S2
 [0.3]   (UNSAT)  Bakery.3proc  / S3  
