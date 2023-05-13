@@ -1,4 +1,4 @@
-# QCIR Benchmark from QBF-based BMC of HyperLTL
+# QCIR Benchmark from QBF-based BMC for Hyperproperties
 
 ## Overview:
 This package contains several QCIR instances from:
