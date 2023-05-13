@@ -12,8 +12,6 @@ Depends on the QBF solving outcome:
   - For synthesis problem, a QBF-SAT result is always expected.
 
 ## Excepted SAT/UNSAT results using a QBF solver:
-## format: [case number] (expected QBF outcome) case-name / hyperproperty-name
-
 
 | Case number | expected QBF outcome | case-name / hyperproperty-name     |
 | :---        | :----       | :----         |
